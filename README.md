@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Zemledelec/Zemledelec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Michael Gevlich
+System Architect focused on large-scale 3D visualization and simulation sustems.
+Founder & Lead Architect og [OpenGlobus](https://openglobus.org) - an open-source planetary-scale geospatial data rendering engine
+Designing GPU-driven spatial infrastructures for geospatial, industrial, and simulation applications.
+---
+### Core Focus
+- Planetary-scale rendering architectures
+- Hight-precision spatial systems
+- GPU pipeline design
+- Simulation-ready geospatial infrastructure
+---
+# Vision
+To build an independent open-source spatial engine capable of supporting planetary-scale visualization, simulation, and industrial digital twins.
+---
+Contact: mgevlich@gmail.com
