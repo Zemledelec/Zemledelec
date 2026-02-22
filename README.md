@@ -5,7 +5,7 @@ Designing GPU-driven spatial infrastructures for geospatial, industrial, and sim
 ---
 ### Core Focus
 - Planetary-scale rendering architectures
-- Hight-precision spatial systems
+- High-precision spatial systems
 - GPU pipeline design
 - Simulation-ready geospatial infrastructure
 ---
