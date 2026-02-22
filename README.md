@@ -1,7 +1,7 @@
 # Michael Gevlich
 
 System Architect focused on large-scale 3D visualization and simulation systems.
-Founder & Lead Architect of [OpenGlobus](https://openglobus.org) — an open-source planetary-scale geospatial rendering engine.
+Founder & Lead Architect of [OpenGlobus](https://openglobus.org) - an open-source planetary-scale geospatial rendering engine.
 Designing GPU-driven rendering systems for geospatial, industrial, and simulation applications.
 ---
 
@@ -11,7 +11,7 @@ Designing GPU-driven rendering systems for geospatial, industrial, and simulatio
 - GPU pipeline design
 - Simulation-ready geospatial infrastructure
 - Data visualization
-- 
+
 ---
 
 # Vision
