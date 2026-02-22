@@ -12,4 +12,8 @@ Designing GPU-driven spatial infrastructures for geospatial, industrial, and sim
 # Vision
 To build an independent open-source spatial engine capable of supporting planetary-scale visualization, simulation, and industrial digital twins.
 ---
-Contact: mgevlich@gmail.com
+Contact:
+
+[LinkedIn](https://www.linkedin.com/in/mgevlich/)
+
+mgevlich@gmail.com
