@@ -8,6 +8,7 @@ Designing GPU-driven spatial infrastructures for geospatial, industrial, and sim
 - High-precision spatial systems
 - GPU pipeline design
 - Simulation-ready geospatial infrastructure
+- Data visualization
 ---
 # Vision
 To build an independent open-source spatial engine capable of supporting planetary-scale visualization, simulation, and industrial digital twins.
