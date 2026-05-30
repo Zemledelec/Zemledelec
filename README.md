@@ -7,11 +7,12 @@ I work on GPU-driven rendering architectures for geospatial, industrial, and sim
 ---
 
 ### Core Focus
-- Planetary-scale rendering architectures
+- Planetary-scale rendering
 - High-precision spatial systems
-- GPU pipeline design
-- Simulation-ready geospatial infrastructure
-- Data visualization
+- GPU rendering pipelines
+- Geospatial infrastructure
+- Industrial and simulation-oriented visualization
+- OpenGlobus engine development
 
 ---
 
